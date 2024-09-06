@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello, I am a Computer Science Student with a background and interest in cybersecurity!
 
 <!--
 **TheStair/TheStair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
