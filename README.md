@@ -1,4 +1,4 @@
-Hello, I am a Computer Science Student with a background and interest in cybersecurity!
+I am a Computer Science Student with interests in Cybersecurity, Networks, Digital Forensics, and Incident Response!
 
 <!--
 **TheStair/TheStair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
